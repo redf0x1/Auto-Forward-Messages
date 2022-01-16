@@ -1,4 +1,4 @@
-# Auto-Forward-Messages
+# Auto-Forward-Messages-Telegram
 You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, direct chats) into one or many chat.
 
 Initially, the bot was created only for myself. I need to understand if the bot is necessary for other users, please dm me, and in future I will be update the bot.
