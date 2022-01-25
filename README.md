@@ -3,7 +3,9 @@ You can use this BOT as a distribution of messages from any telegram chats (priv
 
 Initially, the bot was created only for myself. I need to understand if the bot is necessary for other users, please dm me, and in future I will be update the bot.
 
-BOT: @Auto_Forward_Messages_Bot (https://t.me/Auto_Forward_Messages_Bot)
+➡️ BOT: @Auto_Forward_Messages_Bot (https://t.me/Auto_Forward_Messages_Bot)
+🌎 Home Page: http://autoforwardtelegram.com/
+📖 Document: http://docs.autoforwardtelegram.com/
 
 #  FEATURES & ADVANTAGES
 * Forward chats (public or private)
