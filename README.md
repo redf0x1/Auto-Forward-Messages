@@ -7,6 +7,7 @@ BOT: @Auto_Forward_Messages_Bot (https://t.me/Auto_Forward_Messages_Bot)
 
 #  FEATURES & ADVANTAGES
 * Forward chats (public or private)
+* Support for auto-forwarding when the channel is on "**Restrict saving content**"
 * Highest performance (up to 500 msg/min)
 * Forward from many chats to one and vice versa
 * Change messages format and remove/add defined words
@@ -26,6 +27,9 @@ BOT: @Auto_Forward_Messages_Bot (https://t.me/Auto_Forward_Messages_Bot)
 
 **Q: Does the bot need admin permissions in a channel/group it forwards to?**
 **A:** No
+
+**Q: Can I forward content when the channel is on "**Restrict saving content**"?**
+**A:** Yes
 
 **Q: Can I filter out media, video, stickers etc?**
 **A:** Yes
