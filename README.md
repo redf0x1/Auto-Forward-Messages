@@ -7,18 +7,27 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 🌎 Home Page: http://autoforwardtelegram.com/
 
-📖 Document: http://docs.autoforwardtelegram.com/
+📖 Document: https://docs-v2.autoforwardtelegram.com/
 
-#  FEATURES & ADVANTAGES
-* Forward chats (public or private)
-* Support for auto-forwarding when the channel is on "**Restrict saving content**"
-* Highest performance (up to 500 msg/min)
-* Forward from many chats to one and vice versa
-* Change messages format and remove/add defined words
-* Filter messages based on words, content type, regex patterns or add some custom texts
-* Filter messages based on formats (documents, audio, video etc)
-* Whitelist and Blacklist keywords
-* And many more features
+# ❇️ Here Are My Features ❇️
+— User-friendly Dashboard
+— Forwards chats (public or private)
+— Highest performance (up to 600 msg/min)
+— Forward from many chats to one and vice versa
+— Replace and remove texts (words, usernames, URLs)
+— Filter messages (Images, Media, Text ..etc)
+— Clean messages (URL, URL Preview, Text, Video ..etc)
+— Whitelist and Blacklist keywords
+— Add a Header and/or Footer to each message
+— Translate messages from Source to Target
+— Replicate edited and deleted messages from source
+— Add delay to messages
+— Clone chats from Source to Target
+— Forward or rewrite mode
+— Crypto Filters
+— Filter Duplicates
+— Whitelist users in group
+— And many more features
 
 ❓ If you have any issues or questions about this bot, contact us @redf0x1 (https://t.me/redf0x1)
 
