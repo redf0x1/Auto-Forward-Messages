@@ -36,7 +36,7 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 — Add delay to messages
 
-— Clone chats from Source to Target
+— Clone chats from Source to Target (support Blacklist, Whitelist, Replace, Cleaner, Filters)
 
 — Forward or rewrite mode
 
@@ -71,6 +71,9 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 **Q: Can I set up automatic forwarding from another bot?**
 **A:** Yes
 
+**Q: Can I set up automatic forwarding from topic (supper group ) to channel/group/bots/chat?**
+**A:** Yes
+
 **Q: I don't have a link of a chat, group. Can I still setup forwarding from it?**
 **A:** Yes. This bot can forward from every channel your account has access to.
 
@@ -82,5 +85,10 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 **Q: I'm having trouble using the bot. Where can I get help?**
 
-Q: I'm having trouble using the bot. Where can I get help?
+**Q: I'm having trouble using the bot. Where can I get help?**
 **A:** Yes, you can contact us with telegram @redf0x1 (https://t.me/redf0x1)
+
+**Q: Can I filter messages and edit the content?**
+**A:** Yes, absolutely you can filter the message in whatever way you want and also edit the messages as per wish. You can change user names , modify urls, add images , etc. Below is one of many examples.
+![image](https://github.com/redf0x1/Auto-Forward-Messages/assets/94031200/fb345fa3-e6b8-4187-9f27-10010a8628db)
+
