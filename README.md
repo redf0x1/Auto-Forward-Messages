@@ -16,6 +16,10 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 — Forwards Topic to Topic, Channel/Group/Chat to Topic and vice versa
 
+— Forward case: A -> B -> C
+
+— Clone history message (channel/group/topic/bots/users...etc.)
+
 — Highest performance (up to 600 msg/min)
 
 — Forward from many chats to one and vice versa
@@ -26,7 +30,9 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 — Clean messages (URL, URL Preview, Text, Video ..etc)
 
-— Whitelist and Blacklist keywords
+— Remove Line with keyword
+
+— Whitelist and Blacklist keywords/user_id/user_name
 
 — Add a Header and/or Footer to each message
 
