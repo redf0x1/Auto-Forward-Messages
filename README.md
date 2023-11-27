@@ -5,6 +5,10 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 ➡️ BOT: @Auto_Forward_Messages_Bot (https://t.me/Auto_Forward_Messages_Bot)
 
+✅ IOS VERSION: https://bit.ly/autoforward-for-telegram-ios
+
+✅ ANDROID VERSION: https://bit.ly/autoforward-for-telegram-android
+
 🌎 Home Page: http://autoforwardtelegram.com/
 
 📖 Document: https://docs-v2.autoforwardtelegram.com/
@@ -12,7 +16,9 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 # ❇️ Here Are My Features ❇️
 — User-friendly Dashboard
 
-— Forwards chats (public or private)
+— Bot to forward messages from one channel to other without admin permission in source channel (public or private)
+
+— Bot can also be used for Restricted Channels/Groups/Topic/Users/Bots.
 
 — Forwards Topic to Topic, Channel/Group/Chat to Topic and vice versa
 
