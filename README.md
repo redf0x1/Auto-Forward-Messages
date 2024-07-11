@@ -9,7 +9,9 @@ Initially, the bot was created only for myself. I need to understand if the bot 
 
 ✅ ANDROID VERSION: https://bit.ly/autoforward-for-telegram-android
 
-🌎 Home Page: http://autoforwardtelegram.com/
+✅ WEB VERSION: https://web.autoforwardtelegram.com/
+
+🌎 Home Page: https://autoforwardtelegram.com/
 
 📖 Document: https://docs-v2.autoforwardtelegram.com/
 
