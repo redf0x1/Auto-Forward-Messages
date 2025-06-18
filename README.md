@@ -1,108 +1,173 @@
-# Auto-Forward-Messages-Telegram
-You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, direct chats) into one or many chat.
+# 🚀 Auto Forward Messages - Telegram Bot
 
-Initially, the bot was created only for myself. I need to understand if the bot is necessary for other users, please dm me, and in future I will be update the bot.
+<div align="center">
 
-➡️ BOT: @Auto_Forward_Messages_Bot (https://t.me/Auto_Forward_Messages_Bot)
+![Auto Forward Messages](https://img.shields.io/badge/Auto%20Forward-Messages-blue?style=for-the-badge&logo=telegram)
+![Version](https://img.shields.io/badge/Version-1.0.32-green?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/AI-Powered-red?style=for-the-badge&logo=openai)
+![Platform](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Bot-blueviolet?style=for-the-badge)
 
-✅ IOS VERSION: https://bit.ly/autoforward-for-telegram-ios
+**The most advanced, cloud-based Telegram message forwarding bot with AI capabilities.**
 
-✅ ANDROID VERSION: https://bit.ly/autoforward-for-telegram-android
+[🤖 Start Bot](https://t.me/Auto_Forward_Messages_Bot) • [📱 iOS App](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) • [🌐 Web App](https://web.autoforwardtelegram.com/) • [📚 Documentation](https://docs-v2.autoforwardtelegram.com/)
 
-✅ WEB VERSION: https://web.autoforwardtelegram.com/
+</div>
 
-🌎 Home Page: https://autoforwardtelegram.com/
+## 🎯 What is Auto Forward Messages?
 
-📖 Document: https://docs-v2.autoforwardtelegram.com/
+Auto Forward Messages is a powerful, cloud-based Telegram bot that revolutionizes how you manage message forwarding. All processing happens on our secure cloud servers, so you don't need to keep any device online.
 
-# ❇️ Here Are My Features ❇️
-— User-friendly Dashboard
+Our new **AI MODE** lets you intelligently forward, rewrite, translate, and summarize messages from any Telegram chat to one or multiple destinations.
 
-— Bot to forward messages from one channel to other without admin permission in source channel (public or private)
+---
 
-— Bot can also be used for Restricted Channels/Groups/Topic/Users/Bots.
+## 💰 Pricing & Plans
 
-— Forwards Topic to Topic, Channel/Group/Chat to Topic and vice versa
+We offer a powerful free plan and premium tiers for advanced users.
 
-— Forward case: A -> B -> C
+### 🆓 **Free Plan**
+- ✅ **Unlimited message forwarding**
+- ✅ All basic features
+- ✅ 100% Free, forever!
+> 🆙 **How to user Free?**  
+> - [**Click to see tutorial**](https://docs-v2.autoforwardtelegram.com/auto-forward-messages-has-a-free-version)
 
-— Clone history message (channel/group/topic/bots/users...etc.)
+### 💎 **Premium Plans (Gold, Diamond, Platinum)**
+Unlock advanced features to supercharge your workflow.
+- ✨ Access to all **AI Mode** features
+- 🚀 Advanced filtering, cleaning, and customization
+- Clone entire channels, use webhooks, and more!
 
-— Highest performance (up to 600 msg/min)
+> 🆙 **How to Upgrade?**  
+> You can upgrade easily through the Bot, iOS App, or Android App.
+> - 📖 [**How to upgrade from the Bot**](https://docs-v2.autoforwardtelegram.com/upgrade-plans-package)
+> - 📱 [**How to upgrade from the Mobile App**](https://docs-v2.autoforwardtelegram.com/upgrade-plan-via-android-ios-app)
+> - ⏫ [**How to upgrade from a lower to a higher package**](https://docs-v2.autoforwardtelegram.com/how-to-upgrade-current-package)
 
-— Forward from many chats to one and vice versa
+---
 
-— Replace and remove texts (words, usernames, URLs)
+## 🤖 NEW: AI MODE - Your Ultimate Forwarding Assistant ✨
 
-— Filter messages (Images, Media, Text ..etc)
+**Powered by OpenAI, Google AI, and Perplexity**
 
-— Clean messages (URL, URL Preview, Text, Video ..etc)
+### ✨ Revolutionary AI Features (Premium)
 
-— Remove Line with keyword
+| 🤖 AI Feature | 📝 Description | 💡 Perfect For |
+|---------------|----------------|-----------------|
+| **📝 Rewrite & Translate** | Transform message content and tone into any language with advanced AI | Content localization, tone adjustment, multi-language support |
+| **🧠 Smart Summarizer** | Intelligent content summarization - forward only what truly matters | News digests, long post summaries, key information extraction |
+| **🖼 OCR Extractor** | Turn screenshots into clean, copyable text in seconds | Crypto/forex signals, VIP content, screenshot processing |
 
-— Whitelist and Blacklist keywords/user_id/user_name
+> 📚 **Learn More**: [AI Mode Documentation](https://docs-v2.autoforwardtelegram.com/fundamentals/ai-mode)
 
-— Add a Header and/or Footer to each message
+---
 
-— Translate messages from Source to Target
+## 🌟 Core Features
 
-— Replicate edited and deleted messages from source
+### 🚀 **Performance & Reliability**
+- ⚡ **Ultra-Fast Processing**: Up to **600 messages per minute**
+- ☁️ **Cloud-Based**: No need to keep your device online. All processing is done on our servers.
+- 💯 **99.9% Uptime**: Enterprise-grade reliability
 
-— Add delay to messages
+### 🎛️ **Advanced Forwarding Options**
+- 🔗 **Chain Forwarding**: A → B → C forwarding chains
+- 📊 **Many-to-One/One-to-Many**: Flexible forwarding patterns  
+- 📝 **Topic Support**: Forward between topics, channels, and groups
+- 🔐 **No Admin Required**: Works without admin permissions in source channels
 
-— Clone chats from Source to Target (support Blacklist, Whitelist, Replace, Cleaner, Filters)
+### 🛠️ **Smart Content Management**
+- 🔄 **Real-time Sync**: Replicate edited and deleted messages
+- 📥 **History Cloning**: Copy entire chat histories (Premium)
+- ⏰ **Smart Delays**: Configurable message delays
+- 🎯 **Duplicate Detection**: AI-powered duplicate filtering
 
-— Forward or rewrite mode
+### 🎨 **Message Customization**
+- ✏️ **Text Replacement**: Replace words, usernames, URLs
+- 🏷️ **Headers & Footers**: Add custom headers and footers
+- 🧹 **Content Cleaning**: Remove URLs, previews, formatting
+- 🎭 **Rewrite Mode**: Transform messages completely
 
-— Crypto Filters
+### 🔍 **Advanced Filtering**
+- 👥 **Whitelist/Blacklist Users**: Powerful filtering to allow or block messages from specific users. [Learn More](https://docs-v2.autoforwardtelegram.com/fundamentals/filters-users).
+- 📊 **Media Filters**: Images, videos, documents, stickers, audio, voice
+- 🎯 **Keyword Filtering**: Whitelist and blacklist keywords
+- 💰 **Crypto Filters**: Specialized cryptocurrency content filters
 
-— MMO Utils
+---
 
-— Filter Duplicates
+## 📱 Available Platforms
 
-— Whitelist users in group
+All our platforms are simply interfaces to our powerful cloud-based bot. For the best and most modern user experience, we recommend using our **Web or Mobile Apps**.
 
-— And many more features
+<div align="center">
 
-❓ If you have any issues or questions about this bot, contact us @redf0x1 (https://t.me/redf0x1)
+| Platform | Link | Recommended For |
+|----------|------|-----------------|
+| 🌐 **Web App** | [web.autoforwardtelegram.com](https://web.autoforwardtelegram.com/) | **Best Experience, Modern UI** |
+| 📱 **iOS App** | [App Store](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) | **Best Experience, Native UI** |
+| 🤖 **Android App** | [Google Play](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) | **Best Experience, Native UI** |
+| 🤖 **Telegram Bot** | [@Auto_Forward_Messages_Bot](https://t.me/Auto_Forward_Messages_Bot) | Quick access, command-based |
 
-# FAQ
-**Q:** **How to start using this bot?**
-**A:** Click the link https://t.me/Auto_Forward_Messages_Bot then click the button start when Telegram comes up and follow the instructions.
+</div>
 
-**Q: Does the bot need admin permissions in a channel/group it forwards from?**
-**A: **No
+---
 
-**Q: Does the bot need admin permissions in a channel/group it forwards to?**
-**A:** No
+## 🤝 Make Money With Us (Affiliate Program)
 
-**Q: Can I forward content when the channel is on "**Restrict saving content**"?**
-**A:** Yes
+You can earn money by referring new users to our bot! We offer a generous affiliate program to reward our loyal users.
 
-**Q: Can I filter out media, video, stickers etc?**
-**A:** Yes
+> 💰 **Learn how to start earning**: [Make Money with Auto Forward Messages](https://docs-v2.autoforwardtelegram.com/make-money)
 
-**Q: Can I set up automatic forwarding from another bot?**
-**A:** Yes
+---
 
-**Q: Can I set up automatic forwarding from topic (supper group ) to channel/group/bots/chat?**
-**A:** Yes
+## ❓ Frequently Asked Questions
 
-**Q: I don't have a link of a chat, group. Can I still setup forwarding from it?**
-**A:** Yes. This bot can forward from every channel your account has access to.
+<details>
+<summary><strong>💰 Is this bot really free?</strong></summary>
 
-**Q: How much does this bot cost?**
-**A:** Unlike other bots of this kind. This BOT is completely **FREE** and **unlimited messages**.
+**Yes!** The basic version of our bot is **100% FREE** and offers **unlimited message forwarding**. We also offer premium plans (**Gold, Diamond, Platinum**) for users who need advanced features like AI Mode, advanced filtering, and channel cloning.
+</details>
 
-**Q: Why use this over other bots?**
-**A:** The main reason I made this bot is because other bots of this kind have bad performance. Most premium bots can't even get close to 20 messages per minutes and on high peak times they will start delaying your messages by up to 1min.
+<details>
+<summary><strong>☁️ Do I need to keep my device online?</strong></summary>
 
-**Q: I'm having trouble using the bot. Where can I get help?**
+**No!** Our bot is fully cloud-based. Once you set it up, it runs 24/7 on our servers. The apps and web interface are just for managing your settings.
+</details>
 
-**Q: I'm having trouble using the bot. Where can I get help?**
-**A:** Yes, you can contact us with telegram @redf0x1 (https://t.me/redf0x1)
+<details>
+<summary><strong>🔐 Can I forward from private/restricted channels?</strong></summary>
 
-**Q: Can I filter messages and edit the content?**
-**A:** Yes, absolutely you can filter the message in whatever way you want and also edit the messages as per wish. You can change user names , modify urls, add images , etc. Below is one of many examples.
-![image](https://github.com/redf0x1/Auto-Forward-Messages/assets/94031200/fb345fa3-e6b8-4187-9f27-10010a8628db)
+**Absolutely!** As long as your connected Telegram account has access, you can forward from any private or restricted channel.
+</details>
 
+<details>
+<summary><strong>👥 What is Whitelist/Blacklist Users?</strong></summary>
+
+This is a powerful filtering feature that allows you to control which messages get forwarded based on the user who sent them. You can create lists to only forward messages from specific users (Whitelist) or to block messages from specific users (Blacklist).
+</details>
+
+<details>
+<summary><strong>⚡ How fast is the forwarding?</strong></summary>
+
+Our bot processes up to **600 messages per minute** - significantly faster than most premium alternatives.
+</details>
+
+<details>
+<summary><strong>🆘 I'm having trouble. Where can I get help?</strong></summary>
+
+You can contact us directly on Telegram: [@redf0x1](https://t.me/redf0x1). We're always here to help!
+</details>
+
+---
+
+<div align="center">
+
+### Ready to revolutionize your Telegram workflow?
+
+[🚀 **Start Now for FREE**](https://t.me/Auto_Forward_Messages_Bot) • [📱 **Download Apps**](https://autoforwardtelegram.com/) • [📚 **Read Docs**](https://docs-v2.autoforwardtelegram.com/)
+
+**Made with ❤️ by RedFox Team 🦊**
+
+![GitHub stars](https://img.shields.io/github/stars/redf0x1/Auto-Forward-Messages?style=social) ![GitHub forks](https://img.shields.io/github/forks/redf0x1/Auto-Forward-Messages?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/redf0x1/Auto-Forward-Messages?style=social)
+
+</div>
