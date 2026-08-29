@@ -9,7 +9,7 @@
 
 **The most advanced, cloud-based Telegram message forwarding bot with AI capabilities.**
 
-[🤖 Start Bot](https://t.me/Auto_Forward_Messages_Bot) • [📱 iOS App](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) • [🌐 Web App](https://web.autoforwardtelegram.com/) • [📚 Documentation](https://docs-v2.autoforwardtelegram.com/)
+[🤖 Start Bot](https://t.me/AutoForwardNew_Bot) • [📱 iOS App](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) • [🌐 Web App](https://web.autoforwardtelegram.com/) • [📚 Documentation](https://docs-v2.autoforwardtelegram.com/)
 
 </div>
 
@@ -106,7 +106,7 @@ All our platforms are simply interfaces to our powerful cloud-based bot. For the
 | 🌐 **Web App** | [web.autoforwardtelegram.com](https://web.autoforwardtelegram.com/) | **Best Experience, Modern UI** |
 | 📱 **iOS App** | [App Store](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) | **Best Experience, Native UI** |
 | 🤖 **Android App** | [Google Play](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) | **Best Experience, Native UI** |
-| 🤖 **Telegram Bot** | [@Auto_Forward_Messages_Bot](https://t.me/Auto_Forward_Messages_Bot) | Quick access, command-based |
+| 🤖 **Telegram Bot** | [@AutoForwardNew_Bot](https://t.me/AutoForwardNew_Bot) | Quick access, command-based |
 
 </div>
 
@@ -164,7 +164,7 @@ You can contact us directly on Telegram: [@redf0x1](https://t.me/redf0x1). We're
 
 ### Ready to revolutionize your Telegram workflow?
 
-[🚀 **Start Now for FREE**](https://t.me/Auto_Forward_Messages_Bot) • [📱 **Download Apps**](https://autoforwardtelegram.com/) • [📚 **Read Docs**](https://docs-v2.autoforwardtelegram.com/)
+[🚀 **Start Now for FREE**](https://t.me/AutoForwardNew_Bot) • [📱 **Download Apps**](https://autoforwardtelegram.com/) • [📚 **Read Docs**](https://docs-v2.autoforwardtelegram.com/)
 
 **Made with ❤️ by RedFox Team 🦊**
 
