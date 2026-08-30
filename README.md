@@ -3,13 +3,13 @@
 <div align="center">
 
 ![Auto Forward Messages](https://img.shields.io/badge/Auto%20Forward-Messages-blue?style=for-the-badge&logo=telegram)
-![Version](https://img.shields.io/badge/Version-1.0.51-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.55-green?style=for-the-badge)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-red?style=for-the-badge&logo=openai)
 ![Platform](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Bot-blueviolet?style=for-the-badge)
 
 **The most advanced, cloud-based Telegram message forwarding bot with AI capabilities.**
 
-[🤖 Start Bot](https://t.me/AutoForwardNew_Bot) • [📱 iOS App](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) • [🤖 Android App](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) • [🌐 Web App](https://web.autoforwardtelegram.com/) • [📚 Documentation](https://docs-v2.autoforwardtelegram.com/)
+[🤖 Start Bot](https://teleurl.com/bot) • [📱 iOS App](https://teleurl.com/auto-fwd-ios) • [🤖 Android App](https://teleurl.com/auto-fwd-android) • [🌐 Web App](https://teleurl.com/web) • [📚 Documentation](https://docs-v2.autoforwardtelegram.com/)
 
 </div>
 
@@ -30,7 +30,7 @@ We offer a powerful free plan and premium tiers for advanced users.
 - ✅ All basic features
 - ✅ 100% Free, forever!
 > 🆙 **How to user Free?**  
-> - [**Click to see tutorial**](https://docs-v2.autoforwardtelegram.com/auto-forward-messages-has-a-free-version)
+> - [**Click to see tutorial**](https://teleurl.com/webauto-forward-messages-has-a-free-version)
 
 ### 💎 **Premium Plans (Gold, Diamond, Platinum)**
 Unlock advanced features to supercharge your workflow.
@@ -40,9 +40,9 @@ Unlock advanced features to supercharge your workflow.
 
 > 🆙 **How to Upgrade?**  
 > You can upgrade easily through the Bot, iOS App, or Android App.
-> - 📖 [**How to upgrade from the Bot**](https://docs-v2.autoforwardtelegram.com/upgrade-plans-package)
-> - 📱 [**How to upgrade from the Mobile App**](https://docs-v2.autoforwardtelegram.com/upgrade-plan-via-android-ios-app)
-> - ⏫ [**How to upgrade from a lower to a higher package**](https://docs-v2.autoforwardtelegram.com/how-to-upgrade-current-package)
+> - 📖 [**How to upgrade from the Bot**](https://teleurl.com/webupgrade-plans-package)
+> - 📱 [**How to upgrade from the Mobile App**](https://teleurl.com/webupgrade-plan-via-android-ios-app)
+> - ⏫ [**How to upgrade from a lower to a higher package**](https://teleurl.com/webhow-to-upgrade-current-package)
 
 ---
 
@@ -58,7 +58,7 @@ Unlock advanced features to supercharge your workflow.
 | **🧠 Smart Summarizer** | Intelligent content summarization - forward only what truly matters | News digests, long post summaries, key information extraction |
 | **🖼 OCR Extractor** | Turn screenshots into clean, copyable text in seconds | Crypto/forex signals, VIP content, screenshot processing |
 
-> 📚 **Learn More**: [AI Mode Documentation](https://docs-v2.autoforwardtelegram.com/fundamentals/ai-mode)
+> 📚 **Learn More**: [AI Mode Documentation](https://teleurl.com/webfundamentals/ai-mode)
 
 ---
 
@@ -88,7 +88,7 @@ Unlock advanced features to supercharge your workflow.
 - 🎭 **Rewrite Mode**: Transform messages completely
 
 ### 🔍 **Advanced Filtering**
-- 👥 **Whitelist/Blacklist Users**: Powerful filtering to allow or block messages from specific users. [Learn More](https://docs-v2.autoforwardtelegram.com/fundamentals/filters-users).
+- 👥 **Whitelist/Blacklist Users**: Powerful filtering to allow or block messages from specific users. [Learn More](https://teleurl.com/webfundamentals/filters-users).
 - 📊 **Media Filters**: Images, videos, documents, stickers, audio, voice
 - 🎯 **Keyword Filtering**: Whitelist and blacklist keywords
 - 💰 **Crypto Filters**: Specialized cryptocurrency content filters
@@ -104,9 +104,9 @@ All our platforms are simply interfaces to our powerful cloud-based bot. For the
 | Platform | Link | Recommended For |
 |----------|------|-----------------|
 | 🌐 **Web App** | [web.autoforwardtelegram.com](https://web.autoforwardtelegram.com/) | **Best Experience, Modern UI** |
-| 📱 **iOS App** | [App Store](https://apps.apple.com/us/app/autoforward-for-telegram/id6447486093) | **Best Experience, Native UI** |
-| 🤖 **Android App** | [Google Play](https://play.google.com/store/apps/details?id=com.autoforward.telegramforward) | **Best Experience, Native UI** |
-| 🤖 **Telegram Bot** | [@AutoForwardNew_Bot](https://t.me/AutoForwardNew_Bot) | Quick access, command-based |
+| 📱 **iOS App** | [App Store](https://teleurl.com/auto-fwd-ios) | **Best Experience, Native UI** |
+| 🤖 **Android App** | [Google Play](https://teleurl.com/auto-fwd-android) | **Best Experience, Native UI** |
+| 🤖 **Telegram Bot** | [@AutoForwardNew_Bot](https://teleurl.com/bot) | Quick access, command-based |
 
 </div>
 
@@ -116,7 +116,7 @@ All our platforms are simply interfaces to our powerful cloud-based bot. For the
 
 You can earn money by referring new users to our bot! We offer a generous affiliate program to reward our loyal users.
 
-> 💰 **Learn how to start earning**: [Make Money with Auto Forward Messages](https://docs-v2.autoforwardtelegram.com/make-money)
+> 💰 **Learn how to start earning**: [Make Money with Auto Forward Messages](https://teleurl.com/webmake-money)
 
 ---
 
@@ -164,7 +164,7 @@ You can contact us directly on Telegram: [@redf0x1](https://t.me/redf0x1). We're
 
 ### Ready to revolutionize your Telegram workflow?
 
-[🚀 **Start Now for FREE**](https://t.me/AutoForwardNew_Bot) • [📱 **Download Apps**](https://autoforwardtelegram.com/) • [📚 **Read Docs**](https://docs-v2.autoforwardtelegram.com/)
+[🚀 **Start Now for FREE**](https://teleurl.com/bot) • [📱 **Download Apps**](https://autoforwardtelegram.com/) • [📚 **Read Docs**](https://docs-v2.autoforwardtelegram.com/)
 
 **Made with ❤️ by RedFox Team 🦊**
 
