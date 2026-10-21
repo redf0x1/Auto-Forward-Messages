@@ -28,7 +28,7 @@ Our new **AI MODE** lets you intelligently forward, rewrite, translate, and summ
 We offer a powerful free plan and premium tiers for advanced users.
 
 ### 🆓 **Free Plan**
-- ✅ **3 sources and 3 targets** (3 active regular tasks)
+- ✅ **3 sources and 3 targets**
 - ✅ Basic source-to-target forwarding
 - ✅ Free forever, no payment required
 > 🆓 **Free plan details**
@@ -146,7 +146,7 @@ You can earn money by referring new users to our bot! We offer a generous affili
 <details>
 <summary><strong>💰 Is this bot really free?</strong></summary>
 
-**Yes!** The Free plan is free forever and includes **3 sources and 3 targets** (3 active regular tasks). Eligible new users can try **Platinum free for 5 days with full features**. Paid plans are Gold ($49.99/year), Diamond ($79.99/year) and Platinum ($129.99/year). Features vary by plan: AI Mode requires Platinum, and some capabilities require separate add-ons.
+**Yes!** The Free plan is free forever and includes **3 sources and 3 targets**. Eligible new users can try **Platinum free for 5 days with full features**. Paid plans are Gold ($49.99/year), Diamond ($79.99/year) and Platinum ($129.99/year). Features vary by plan: AI Mode requires Platinum, and some capabilities require separate add-ons.
 </details>
 
 <details>
