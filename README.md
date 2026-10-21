@@ -7,7 +7,9 @@
 ![AI Powered](https://img.shields.io/badge/AI-Powered-red?style=for-the-badge&logo=openai)
 ![Platform](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Bot-blueviolet?style=for-the-badge)
 
-**The most advanced, cloud-based Telegram message forwarding bot with AI capabilities.**
+**RedFox Auto Forward Telegram — the cloud-based Telegram message forwarding bot by RedFox Team, with AI capabilities.**
+
+Official bot: **[@AutoForwardNew_Bot](https://t.me/AutoForwardNew_Bot)**. The previous bot @Auto_Forward_Messages_Bot has moved to @AutoForwardNew_Bot. @AutoForwardBot is a different, unrelated bot.
 
 [🤖 Start Bot](https://teleurl.com/bot) • [📱 iOS App](https://teleurl.com/auto-fwd-ios) • [🤖 Android App](https://teleurl.com/auto-fwd-android) • [🌐 Web App](https://teleurl.com/web) • [📚 Documentation](https://docs-v2.autoforwardtelegram.com/)
 
@@ -15,7 +17,7 @@
 
 ## 🎯 What is Auto Forward Messages?
 
-Auto Forward Messages is a powerful, cloud-based Telegram bot that revolutionizes how you manage message forwarding. All processing happens on our secure cloud servers, so you don't need to keep any device online.
+RedFox Auto Forward Telegram (Auto Forward Messages) is a powerful, cloud-based Telegram bot that revolutionizes how you manage message forwarding. All processing happens on our secure cloud servers, so you don't need to keep any device online.
 
 Our new **AI MODE** lets you intelligently forward, rewrite, translate, and summarize messages from any Telegram chat to one or multiple destinations.
 
@@ -26,23 +28,33 @@ Our new **AI MODE** lets you intelligently forward, rewrite, translate, and summ
 We offer a powerful free plan and premium tiers for advanced users.
 
 ### 🆓 **Free Plan**
-- ✅ **Unlimited message forwarding**
-- ✅ All basic features
-- ✅ 100% Free, forever!
-> 🆙 **How to user Free?**  
-> - [**Click to see tutorial**](https://teleurl.com/webauto-forward-messages-has-a-free-version)
+- ✅ **3 sources and 3 targets** (3 active regular tasks)
+- ✅ Basic source-to-target forwarding
+- ✅ Free forever, no payment required
+> 🆓 **Free plan details**
+> - [**See current plans**](https://autoforwardtelegram.com/)
+
+### 🎁 **Trial Platinum**
+- ✅ Eligible new users can try **Platinum free for 5 days with full features**
 
 ### 💎 **Premium Plans (Gold, Diamond, Platinum)**
 Unlock advanced features to supercharge your workflow.
-- ✨ Access to all **AI Mode** features
-- 🚀 Advanced filtering, cleaning, and customization
-- Clone entire channels, use webhooks, and more!
+
+| Plan | Monthly | Yearly |
+|------|---------|--------|
+| Gold | $4.99 | $49.99 |
+| Diamond | $7.99 | $79.99 |
+| Platinum | $12.99 | $129.99 |
+
+- Gold adds editing, duplicate filters, delays and timing controls.
+- Diamond adds advanced filtering, cleaning, replacement, headers/footers and topics.
+- Platinum includes AI Mode and the full plan feature set. Some capabilities require separate add-ons; check the relevant guide before upgrading.
 
 > 🆙 **How to Upgrade?**  
 > You can upgrade easily through the Bot, iOS App, or Android App.
-> - 📖 [**How to upgrade from the Bot**](https://teleurl.com/webupgrade-plans-package)
-> - 📱 [**How to upgrade from the Mobile App**](https://teleurl.com/webupgrade-plan-via-android-ios-app)
-> - ⏫ [**How to upgrade from a lower to a higher package**](https://teleurl.com/webhow-to-upgrade-current-package)
+> - 📖 [**How to upgrade from the Bot**](https://docs-v2.autoforwardtelegram.com/upgrade-plans-package)
+> - 📱 [**How to upgrade from the Mobile App**](https://docs-v2.autoforwardtelegram.com/upgrade-plan-via-android-ios-app)
+> - ⏫ [**How to upgrade from a lower to a higher package**](https://docs-v2.autoforwardtelegram.com/how-to-upgrade-current-package)
 
 ---
 
@@ -58,16 +70,15 @@ Unlock advanced features to supercharge your workflow.
 | **🧠 Smart Summarizer** | Intelligent content summarization - forward only what truly matters | News digests, long post summaries, key information extraction |
 | **🖼 OCR Extractor** | Turn screenshots into clean, copyable text in seconds | Crypto/forex signals, VIP content, screenshot processing |
 
-> 📚 **Learn More**: [AI Mode Documentation](https://teleurl.com/webfundamentals/ai-mode)
+> 📚 **Learn More**: [AI Mode Documentation](https://docs-v2.autoforwardtelegram.com/modify-content/ai-mode)
 
 ---
 
 ## 🌟 Core Features
 
 ### 🚀 **Performance & Reliability**
-- ⚡ **Ultra-Fast Processing**: Up to **600 messages per minute**
 - ☁️ **Cloud-Based**: No need to keep your device online. All processing is done on our servers.
-- 💯 **99.9% Uptime**: Enterprise-grade reliability
+- 💯 **Reliability**: RedFox reports 99.99% service uptime
 
 ### 🎛️ **Advanced Forwarding Options**
 - 🔗 **Chain Forwarding**: A → B → C forwarding chains
@@ -79,7 +90,7 @@ Unlock advanced features to supercharge your workflow.
 - 🔄 **Real-time Sync**: Replicate edited and deleted messages
 - 📥 **History Cloning**: Copy entire chat histories (Premium)
 - ⏰ **Smart Delays**: Configurable message delays
-- 🎯 **Duplicate Detection**: AI-powered duplicate filtering
+- 🎯 **Duplicate Detection**: Configurable duplicate filtering
 
 ### 🎨 **Message Customization**
 - ✏️ **Text Replacement**: Replace words, usernames, URLs
@@ -88,10 +99,20 @@ Unlock advanced features to supercharge your workflow.
 - 🎭 **Rewrite Mode**: Transform messages completely
 
 ### 🔍 **Advanced Filtering**
-- 👥 **Whitelist/Blacklist Users**: Powerful filtering to allow or block messages from specific users. [Learn More](https://teleurl.com/webfundamentals/filters-users).
+- 👥 **Whitelist/Blacklist Users**: Powerful filtering to allow or block messages from specific users. [Learn More](https://docs-v2.autoforwardtelegram.com/filters/whitelist-users).
 - 📊 **Media Filters**: Images, videos, documents, stickers, audio, voice
 - 🎯 **Keyword Filtering**: Whitelist and blacklist keywords
 - 💰 **Crypto Filters**: Specialized cryptocurrency content filters
+
+---
+
+## 🔀 Supported Routes
+
+| Route | Product | Guide |
+|-------|---------|-------|
+| Telegram → Telegram (channels, groups, users, bots, topics) | RedFox Auto Forward Telegram | [Create a forwarding task](https://docs-v2.autoforwardtelegram.com/guides/how-to-create-task-auto-forward) |
+| Telegram → Discord, WhatsApp, X, Email, VK | RedFox Auto Forward Telegram (external publishing; check each guide for External Publish add-on and account requirements) | [Discord](https://docs-v2.autoforwardtelegram.com/forward-to-another-platform/how-to-auto-forward-telegram-to-discord) · [WhatsApp](https://docs-v2.autoforwardtelegram.com/forward-to-another-platform/how-to-auto-forward-telegram-to-whatsapp) · [X](https://docs-v2.autoforwardtelegram.com/forward-to-another-platform/how-to-auto-forward-telegram-to-x) · [Email](https://docs-v2.autoforwardtelegram.com/forward-to-another-platform/how-to-auto-forward-telegram-to-email) · [VK](https://docs-v2.autoforwardtelegram.com/forward-to-another-platform/how-to-auto-forward-telegram-to-vk-social) |
+| Discord → Telegram, Discord → Discord | **D2T** by RedFox Team | [docs.discordtotelegram.com](https://docs.discordtotelegram.com/) |
 
 ---
 
@@ -116,7 +137,7 @@ All our platforms are simply interfaces to our powerful cloud-based bot. For the
 
 You can earn money by referring new users to our bot! We offer a generous affiliate program to reward our loyal users.
 
-> 💰 **Learn how to start earning**: [Make Money with Auto Forward Messages](https://teleurl.com/webmake-money)
+> 💰 **Learn how to start earning**: [Make Money with Auto Forward Messages](https://docs-v2.autoforwardtelegram.com/affliate/affiliate-program-with-auto-forward)
 
 ---
 
@@ -125,7 +146,7 @@ You can earn money by referring new users to our bot! We offer a generous affili
 <details>
 <summary><strong>💰 Is this bot really free?</strong></summary>
 
-**Yes!** The basic version of our bot is **100% FREE** and offers **unlimited message forwarding**. We also offer premium plans (**Gold, Diamond, Platinum**) for users who need advanced features like AI Mode, advanced filtering, and channel cloning.
+**Yes!** The Free plan is free forever and includes **3 sources and 3 targets** (3 active regular tasks). Eligible new users can try **Platinum free for 5 days with full features**. Paid plans are Gold ($49.99/year), Diamond ($79.99/year) and Platinum ($129.99/year). Features vary by plan: AI Mode requires Platinum, and some capabilities require separate add-ons.
 </details>
 
 <details>
@@ -147,9 +168,9 @@ This is a powerful filtering feature that allows you to control which messages g
 </details>
 
 <details>
-<summary><strong>⚡ How fast is the forwarding?</strong></summary>
+<summary><strong>🔀 Can I forward between Telegram and Discord?</strong></summary>
 
-Our bot processes up to **600 messages per minute** - significantly faster than most premium alternatives.
+Yes. Telegram → Discord publishing is part of RedFox Auto Forward Telegram (see the [Discord guide](https://docs-v2.autoforwardtelegram.com/forward-to-another-platform/how-to-auto-forward-telegram-to-discord) for requirements). For Discord → Telegram or Discord → Discord, use RedFox's sibling product **D2T**: [docs.discordtotelegram.com](https://docs.discordtotelegram.com/).
 </details>
 
 <details>
